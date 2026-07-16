@@ -1,0 +1,103 @@
+# Elguapoe's Warchest - Official Releases
+
+**Star Citizen Mining & Refinery Management Tool**
+
+![Version](https://img.shields.io/badge/version-1.2.7-orange)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-blue)
+
+---
+
+## 📥 Download Latest Release
+
+**[View All Releases](https://github.com/Elguapoe/ElguapoesWarchest-Releases/releases/latest)**
+
+### Available Platforms:
+- **Windows** - `ElguapoesWarchest-Windows.zip`
+- **Linux** - `ElguapoesWarchest-Linux.tar.gz`
+- **macOS** - `ElguapoesWarchest-macOS.dmg` (when available)
+
+---
+
+## 🚀 Quick Start
+
+1. Download the appropriate file for your platform from the [latest release](https://github.com/Elguapoe/ElguapoesWarchest-Releases/releases/latest)
+2. Extract the archive to a location of your choice
+3. Run the executable:
+   - **Windows**: `ElguapoesWarchest.exe`
+   - **Linux**: `ElguapoesWarchest`
+   - **macOS**: Open the `.dmg` and drag to Applications
+
+**No installation required!** Just extract and run.
+
+---
+
+## 🔄 Updating
+
+### Important: Preserve Your Data!
+
+When updating to a new version:
+
+1. **Copy your `UserData` folder** from the old version
+2. Extract the new version to a new location
+3. **Paste the `UserData` folder** into the new version's directory
+4. Run the new version
+
+The `UserData` folder contains:
+- `refinery.db` - All your refinery jobs and warchest data
+- `user_prefs.json` - Your application settings
+- `price_cache.json` - Cached commodity prices
+- All your saved configurations
+
+**Future versions will include automatic update functionality!**
+
+---
+
+## 📋 Features
+
+- **Refinery Job Tracking** - Log and manage all your refinery orders
+- **Warchest Management** - Track your mineral inventory with quality ratings
+- **Live Price Integration** - Real-time commodity prices from UEX Corp API
+- **Rock Breaking Calculator** - Optimize laser and module loadouts
+- **Multi-Crew Calculator** - Plan team mining operations
+- **Optimal Loadout Finder** - Find the best laser combinations for any rock
+- **Equipment Database** - Browse all mining lasers, modules, and gadgets
+- **Location Data** - Find where to mine specific minerals
+- **Blueprint Tracking** - Track crafting requirements and materials
+
+---
+
+## ⚠️ Windows Users: Antivirus Warning
+
+Windows Defender and some antivirus software may flag the application as unknown because:
+- It's a new, unsigned application
+- PyInstaller executables are sometimes flagged by heuristics
+
+**The application is safe.** See `WINDOWS_DEFENDER_INFO.txt` in the download for details on:
+- Why this happens
+- How to add an exception
+- How to verify the application is safe
+
+---
+
+## 🆘 Support & Community
+
+- **Issues & Bug Reports**: [Report an Issue](https://github.com/Elguapoe/ElguapoesWarchest-Releases/issues)
+- **Feature Requests**: [Request a Feature](https://github.com/Elguapoe/ElguapoesWarchest-Releases/issues)
+- **Discord Community**: [Join our Discord](#) *(Add your Discord link here)*
+
+---
+
+## 📜 License
+
+Copyright © 2026 Elguapoes Gate LLC. All rights reserved.
+
+This software is proprietary and licensed for personal use only.
+See the [LICENSE](LICENSE) file for full terms.
+
+---
+
+## 🌟 About
+
+Developed by **Elguapoes Gate LLC** for the Star Citizen mining community.
+
+**Star Citizen** is a trademark of Cloud Imperium Games. This application is not affiliated with or endorsed by Cloud Imperium Games.
