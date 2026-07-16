@@ -2,8 +2,8 @@
 
 **Star Citizen Mining & Refinery Management Tool**
 
-![Version](https://img.shields.io/badge/version-1.2.7-orange)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-blue)
+![Version](https://img.shields.io/github/v/release/Elguapoe/ElguapoesWarchest-Releases?color=orange&label=version)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue)
 
 ---
 
@@ -14,7 +14,6 @@
 ### Available Platforms:
 - **Windows** - `ElguapoesWarchest-Windows.zip`
 - **Linux** - `ElguapoesWarchest-Linux.tar.gz`
-- **macOS** - `ElguapoesWarchest-macOS.dmg` (when available)
 
 ---
 
@@ -25,7 +24,6 @@
 3. Run the executable:
    - **Windows**: `ElguapoesWarchest.exe`
    - **Linux**: `ElguapoesWarchest`
-   - **macOS**: Open the `.dmg` and drag to Applications
 
 **No installation required!** Just extract and run.
 
@@ -33,22 +31,33 @@
 
 ## 🔄 Updating
 
-### Important: Preserve Your Data!
+### Automatic Updates (v1.2.8+)
 
-When updating to a new version:
+If you're running **v1.2.8 or newer**, updates are automatic:
+
+1. The app checks for updates on startup
+2. When a new version is available, you'll see an orange banner at the top
+3. Click **"Download Update"** - the app will:
+   - Download the new version
+   - Automatically preserve your UserData folder
+   - Install the update
+   - Restart with the new version
+4. That's it! Your data is automatically preserved.
+
+### Manual Update (for v1.2.7 and earlier)
+
+If you're on an older version, manually update one last time:
 
 1. **Copy your `UserData` folder** from the old version
-2. Extract the new version to a new location
+2. Download and extract the new version
 3. **Paste the `UserData` folder** into the new version's directory
-4. Run the new version
+4. Run the new version - you'll now have automatic updates!
 
 The `UserData` folder contains:
 - `refinery.db` - All your refinery jobs and warchest data
 - `user_prefs.json` - Your application settings
 - `price_cache.json` - Cached commodity prices
 - All your saved configurations
-
-**Future versions will include automatic update functionality!**
 
 ---
 
