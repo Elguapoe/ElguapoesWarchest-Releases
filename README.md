@@ -1,10 +1,6 @@
 # Elguapoe's Warchest - Official Releases
 
-**The Absolute BEST Star Citizen Mining Resource / Tool**
-
-From Placing Refinery Orders to tracking your analytics to Calculating the best possible mining loadouts for the trickiest Rocks, this app does it all. 
-
-Thanks to Generous Elguapoes Gate members who contribute to the continuation of this project it is made available for free to the public. Without All of the generosity from you Amazing members of this Star Citizen community there is no way we could continue to sink this much time consistently into the app. We are forever expanding, forever changing, evolving, implementing, fixing, tuning and keeping the whole thing up-to-date with all of the wild Star Citizen changes.  
+**Star Citizen Mining & Refinery Management Tool**
 
 ![Version](https://img.shields.io/github/v/release/Elguapoe/ElguapoesWarchest-Releases?color=orange&label=version)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue)
@@ -30,12 +26,6 @@ Thanks to Generous Elguapoes Gate members who contribute to the continuation of 
    - **Linux**: `ElguapoesWarchest`
 
 **No installation required!** Just extract and run.
-
----
-
-## 💵 Donate!
-
-- If you are feeling generous and financially capable to help The Elguapoes Gate continue this project please consider tossing some beans the Elguapoes way  [Give Support](https://ko-fi.com/ElguapoesGate) It is GREATLY appreciated. All of my time goes into working on the data and building the App. 
 
 ---
 
@@ -81,11 +71,7 @@ The `UserData` folder contains:
 - **Optimal Loadout Finder** - Find the best laser combinations for any rock
 - **Equipment Database** - Browse all mining lasers, modules, and gadgets
 - **Location Data** - Find where to mine specific minerals
-- **Blueprint Tracking** - Track crafting requirements and materials and missions
-- **Track Minerals** - Track which minerals you need and where to find them
-- **Best Sales Locations** - Calculate best sales locations based on your warchest inventory
-- **OCR** - Utilize screenshots and screenshot snipping to create refinery orders and log them
-
+- **Blueprint Tracking** - Track crafting requirements and materials
 
 ---
 
@@ -106,7 +92,7 @@ Windows Defender and some antivirus software may flag the application as unknown
 
 - **Issues & Bug Reports**: [Report an Issue](https://github.com/Elguapoe/ElguapoesWarchest-Releases/issues)
 - **Feature Requests**: [Request a Feature](https://github.com/Elguapoe/ElguapoesWarchest-Releases/issues)
-- **Discord Community**: [Join our Discord](#) *(discord.gg/thegate)*
+- **Discord Community**: [Join our Discord](#) *(Add your Discord link here)*
 
 ---
 
