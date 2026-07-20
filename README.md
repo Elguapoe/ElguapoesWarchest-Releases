@@ -93,7 +93,7 @@ Windows Defender and some antivirus software may flag the application as unknown
 
 - **Issues & Bug Reports**: [Report an Issue](https://github.com/Elguapoe/ElguapoesWarchest-Releases/issues)
 - **Feature Requests**: [Request a Feature](https://github.com/Elguapoe/ElguapoesWarchest-Releases/issues)
-- **Discord Community**: [Join our Discord](#) *(Add your Discord link here)*
+- **Discord Community**: [Join our Discord](#) *(https://discord.gg/thegate)*
 
 ---
 
