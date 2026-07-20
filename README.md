@@ -71,6 +71,7 @@ The `UserData` folder contains:
 - **Optimal Loadout Finder** - Find the best laser combinations for any rock
 - **Equipment Database** - Browse all mining lasers, modules, and gadgets
 - **Location Data** - Find where to mine specific minerals
+- **Rock Knowledge** - All the Info you need for rock composition and rock statistics
 - **Blueprint Tracking** - Track crafting requirements and materials
 
 ---
