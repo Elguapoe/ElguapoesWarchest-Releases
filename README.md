@@ -70,6 +70,7 @@ The `UserData` folder contains:
 - **Multi-Crew Calculator** - Plan team mining operations
 - **Optimal Loadout Finder** - Find the best laser combinations for any rock
 - **Equipment Database** - Browse all mining lasers, modules, and gadgets
+- **Rock Knowledge** - Comprehensive mineral and RS signature reference with pinnable favorites
 - **Location Data** - Find where to mine specific minerals
 - **Blueprint Tracking** - Track crafting requirements and materials
 
@@ -92,7 +93,7 @@ Windows Defender and some antivirus software may flag the application as unknown
 
 - **Issues & Bug Reports**: [Report an Issue](https://github.com/Elguapoe/ElguapoesWarchest-Releases/issues)
 - **Feature Requests**: [Request a Feature](https://github.com/Elguapoe/ElguapoesWarchest-Releases/issues)
-- **Discord Community**: [Join our Discord](#) *(Add your Discord link here)*
+- **Discord Community**: [Join our Discord](https://discord.gg/thegate)
 
 ---
 
