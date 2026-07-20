@@ -33,6 +33,12 @@ Thanks to Generous Elguapoes Gate members who contribute to the continuation of 
 
 ---
 
+## 💵 Donate!
+
+- If you are feeling generous and financially capable to help The Elguapoes Gate continue this project please consider tossing some beans the Elguapoes way  [Give Support](https://ko-fi.com/ElguapoesGate) It is GREATLY appreciated. All of my time goes into working on the data and building the App. 
+
+---
+
 ## 🔄 Updating
 
 ### Automatic Updates (v1.2.8+)
@@ -80,10 +86,6 @@ The `UserData` folder contains:
 - **Best Sales Locations** - Calculate best sales locations based on your warchest inventory
 - **OCR** - Utilize screenshots and screenshot snipping to create refinery orders and log them
 
----
-## 💵 Donate!
-
-- If you are feeling generous and financially capable to help The Elguapoes Gate continue this project please consider tossing some beans the Elguapoes way  [Give Support](https://ko-fi.com/ElguapoesGate) It is GREATLY appreciated. All of my time goes into working on the data and building the App. 
 
 ---
 
