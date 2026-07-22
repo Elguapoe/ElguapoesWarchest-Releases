@@ -35,7 +35,7 @@ Thanks to Generous Elguapoes Gate members who contribute to the continuation of 
 
 ## 💵 Donate!
 
-- If you are feeling generous and financially capable to help The Elguapoes Gate continue this project please consider tossing some beans the Elguapoes way [Give Support](https://ko-fi.com/ElguapoesGate) It is GREATLY appreciated. All of my time goes into working on the data and building the App.
+- If you are feeling generous and financially capable to help The Elguapoes Gate continue this project please consider tossing some beans the Elguapoes way [Give Support](https://ko-fi.com/ElguapoesGate) Even a couple dollars a month is GREATLY appreciated! 
 
 ---
 
